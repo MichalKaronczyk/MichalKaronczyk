@@ -2,21 +2,19 @@
   <img src="https://capsule-render.vercel.app/api?text=Hey!&animation=fadeIn&type=waving&color=gradient&height=90" alt="Hey!" />
 </p>
 
-<h1 align="center">Michał Karończyk</h1>
+<h1 align="center">Michał Karonczyk</h1>
 <p align="center">Data Scientist • Python dev • IoT student</p>
 
 ---
 
 ## 🔎 About
 
-```yaml
-name: "Michał Karończyk"
-role: "Data Scientist | Python dev | IoT student"
-bio: "I create solutions in frontend, backend and as a Data Scientist — including Generative AI, autonomous agents and Python automation."
-website: "https://www.michalkaronczyk.xyz/"
-location: "Poland"
-contact: "mikhailkoronchik@gmail.com"
-```
+- **Name:** Michał Karonczyk  
+- **Role:** Data Scientist | Python dev | IoT student  
+- **Bio:** I create solutions in frontend, backend and as a Data Scientist — including Generative AI, autonomous agents and Python automation.  
+- **Website:** <a href="https://www.michalkaronczyk.xyz/" target="_blank">michalkaronczyk.xyz</a>  
+- **Location:** Poland  
+- **Contact:** <a href="mailto:mikhailkoronchik@gmail.com">mikhailkoronchik@gmail.com</a>
 
 **🔗 Contact & Links**  
 <p align="center">
@@ -79,11 +77,6 @@ contact: "mikhailkoronchik@gmail.com"
 </p>
 
 **🔭 Current Focus**
+- Python automation & backend
 - Generative AI / autonomous agents  
-- Python automation & backend  
 - IoT solutions with ESP-IDF
-
-**⚡ Fun Fact**  
-I code, design, and tinker with electronics — often in the same afternoon.
-
-<p align="center">Made with ❤️ • <a href="https://www.michalkaronczyk.xyz" target="_blank">michalkaronczyk.xyz</a></p>
